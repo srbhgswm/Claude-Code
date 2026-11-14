@@ -1,5 +1,5 @@
 // Offline cache so the app opens with no signal. Bump VERSION when files change.
-const VERSION = 'pocket-budget-v1';
+const VERSION = 'pocket-budget-v2';
 const ASSETS = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'vendor/xlsx.full.min.js',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
